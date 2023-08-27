@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: carmichaelc09/web:1  # Replace with your actual Docker image name
+          image: carmichaelc09/web:3  # Replace with your actual Docker image name
           ports:
             - containerPort: 8000
 ---

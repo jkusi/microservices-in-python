@@ -6,7 +6,6 @@ mircroservices-in-python
 - Sample Flask Application
 - Jinja templating for Web Pages
 - Building the docker using Dockerfile
-- Writing Docker Compose file
 - Writing Kubernates Manfiest files for the application
 
 
